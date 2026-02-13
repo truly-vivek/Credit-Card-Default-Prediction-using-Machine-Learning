@@ -32,7 +32,7 @@ This project was developed as part of the **CS6471** module. [cite_start]Initial
 * **Kesavarapu Vivek Reddy** (ID: 25269933)
 
 ## 📊 Dataset
-* **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) / Kaggle
+* **Source:** [UCI Machine Learning Repository](/) / Kaggle
 * **Size:** 30,000 instances, 25 variables.
 * **Target Variable:** `default.payment.next.month` (1 = Default, 0 = No Default).
 * **Features:**
@@ -103,4 +103,4 @@ This project was developed as part of the **CS6471** module. [cite_start]Initial
 ## 🎓 Acknowledgments
 * **University of Limerick** - Module CS6471.
 * **Professor Annette** - For guidance and feedback during the project timeline.
-* **UCI Machine Learning Repository** - For providing the dataset.
+* **Kaggle** - For providing the dataset.

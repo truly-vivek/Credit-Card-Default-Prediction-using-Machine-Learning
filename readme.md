@@ -27,9 +27,9 @@ This project was developed as part of the **CS6471** module. [cite_start]Initial
 
 ## 👥 Team Members
 **Group 20**
-* **Ben Ryan** (ID: 21330786)
-* **Hima Ambalagere Sudarshan** (ID: 25335464)
-* **Kesavarapu Vivek Reddy** (ID: 25269933)
+* **Vivek**
+* **Ben**
+* **Hima**
 
 ## 📊 Dataset
 * **Source:** [UCI Machine Learning Dataset](/) / Kaggle
